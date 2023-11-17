@@ -15,6 +15,7 @@ import com.example.mathgame.R
 import kotlinx.coroutines.delay
 
 @Composable
+
 fun SplashScreen(navController: NavController) {
     LaunchedEffect(key1 = true){
         delay(2000)
