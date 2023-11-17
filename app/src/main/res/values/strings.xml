@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>
