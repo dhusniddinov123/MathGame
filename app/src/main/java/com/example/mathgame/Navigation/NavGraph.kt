@@ -18,7 +18,7 @@ fun NavGraph (navController: NavHostController){
             SplashScreen(navController)
         }
         composable(route = Screens.Home.route){
-            HomeScreen()
+            HomeScreen(navController)
         }
         composable(route = Screens.Game.route){
             GameScreen()
